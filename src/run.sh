@@ -1,1 +1,0 @@
-java AnuranPrediction "$1"
