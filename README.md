@@ -1,11 +1,10 @@
 # FEUP-IART
 This repository hosts our project for the Artificial Intelligence (IART) course unit of the MIEIC at FEUP.
 
-## Introduction
+## Goal
 The aim of this project was the application of neural networks for the prediction of frog species, based on their appeals.
 
-Main difficulties include:
-* balancing of the dataset;
+Report [here](https://github.com/diogotorres97/feup-iart/blob/master/reports/IART1718_FINAL_GE3_2.pdf)
 
 ## Dataset
 Anuran Calls (MFCCs) is a data set which contains acoustic features extracted from syllables of anuran (frogs) calls, including the family, the genus, and the species labels (multilabel) collected by UCI (University of California, Irvine).
